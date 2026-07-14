@@ -1,5 +1,4 @@
 
-
 export const Concepts = ({title, description, image}) => {
   return (
     <li>

@@ -30,7 +30,7 @@ export const coreObj = [
   },
 ];
 
-export const EXAMPLES = {
+export const responses = {
   components: {
     title: 'Components',
     description:
